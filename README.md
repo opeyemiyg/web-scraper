@@ -1,5 +1,5 @@
 # web-scraper
-![example workflow](https://github.com/opeyemiyg/web-scraper/actions/workflows/django.yml/badge.svg?branch=indev) <br>
+![example workflow](https://github.com/opeyemiyg/web-scraper/actions/workflows/python-app.yml/badge.svg) <br>
 
 A web scraping tool for videx landing page.
 
