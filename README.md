@@ -7,6 +7,10 @@ A web scraping tool for videx landing page.
 1. Python 3.7 [link](https://www.python.org/downloads/)
 1. Virtualenv
 
+##### Requirements (using pip)
+1. beautifulsoup4==4.10.0 [link](https://pypi.org/project/beautifulsoup4/)
+
+
 
 Make sure to download/clone this repository and navigate to the folder in your terminal. Now follow the instructions below
 
