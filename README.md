@@ -44,5 +44,6 @@ Use command below to run unit test
 python tests.py
 ```
 `
-  
+##Description
+An hierarchical approach is taken, where the section of the extracted data is identified as the "grandfather" (a div that holds all options), and the individual options of the section is referred to as the "father", while the "children" is the attributes of the options
 # References
