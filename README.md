@@ -1,4 +1,4 @@
-# web-scraper
+# web-scraper 
 ![example workflow](https://github.com/opeyemiyg/web-scraper/actions/workflows/python-app.yml/badge.svg) <br>
 
 A web scraping tool for videx landing page.
